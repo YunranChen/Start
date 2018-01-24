@@ -1,0 +1,28 @@
+If you see others' interesting project:
+
+In Github, Fork it.
+
+In terminal,
+
+git init
+
+git clone 
+
+git commit -m "commitment"
+
+git push
+
+
+If you want to push your original ideas:
+
+git init
+
+git add notebooks/* (add all the files inside folder notebooks)
+
+git status
+
+git commit -m "commitment.text"
+
+git remote add origin <the HTTP in github you want to remote>
+
+git push -u origin master

@@ -4,11 +4,14 @@ In Github, Fork it.
 
 In terminal,
 
-git init
 
 git clone 
 
 git commit -m "commitment"
+
+git remote -v (to show the remote url)
+
+git remote set-url <urladdress>
 
 git push
 
